@@ -1,0 +1,20 @@
+<resources>
+    <style name="questionOption" parent="Widget.AppCompat.TextView">
+        <item name="android:background">@drawable/question_option_bg</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">8dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+    <style name="questionOptionSelected" parent="questionOption">
+        <item name="android:background">@drawable/question_option_bg_selected</item>
+    </style>
+    <style name="questionOptionCorrect" parent="questionOption">
+        <item name="android:background">@drawable/question_option_bg_correct</item>
+    </style>
+    <style name="questionOptionWrong" parent="questionOption">
+        <item name="android:background">@drawable/question_option_bg_wrong</item>
+    </style>
+</resources>

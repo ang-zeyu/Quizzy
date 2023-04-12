@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+    "image": "https://i.imgur.com/O1tGnu7.jpeg",
+    "correctOption": 1
+  },
+  {
+    "question": "Which planet in our solar system is the largest?",
+    "options": ["Earth", "Venus", "Jupiter", "Mars"],
+    "image": "https://i.imgur.com/C7SvkVE.jpg",
+    "correctOption": 2
+  },
+  {
+    "question": "Who is the current CEO of Tesla?",
+    "options": ["Elon Musk", "Jeff Bezos", "Bill Gates", "Mark Zuckerberg"],
+    "image": "https://i.imgur.com/bIoVH57.jpg",
+    "correctOption": 0
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+    "image": "https://i.imgur.com/iNLD9XH.jpg",
+    "correctOption": 0
+  },
+  {
+    "question": "What is the name of the world's largest desert?",
+    "options": ["Sahara", "Gobi", "Arabian", "Antarctica"],
+    "image": "https://i.imgur.com/tnxGtOv.jpg",
+    "correctOption": 0
+  },
+  {
+    "question": "Which band released the album 'Nevermind' in 1991?",
+    "options": ["Guns N' Roses", "Nirvana", "Pearl Jam", "Metallica"],
+    "image": "https://i.imgur.com/5ZIZmfN.jpg",
+    "correctOption": 1
+  },
+  {
+    "question": "Who painted the famous work 'The Starry Night'?",
+    "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Salvador Dali"],
+    "image": "https://i.imgur.com/v6Fbkhi.jpg",
+    "correctOption": 2
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Liver", "Brain", "Lungs", "Skin"],
+    "image": "https://i.imgur.com/Fwzsgbi.jpg",
+    "correctOption": 3
+  },
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "options": ["France", "Spain", "Brazil", "Germany"],
+    "image": "https://i.imgur.com/5BPEzZu.jpg",
+    "correctOption": 0
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "options": ["J.K. Rowling", "Stephen King", "Dan Brown", "George R.R. Martin"],
+    "image": "https://i.imgur.com/jBRjbV7.jpg",
+    "correctOption": 0
+  }
+]
